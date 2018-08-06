@@ -25,7 +25,6 @@ url19 = 'https://blog.csdn.net/ego_bai/article/details/80567958'
 url20 = 'https://blog.csdn.net/ego_bai/article/details/79882079'  
 url21 = 'https://blog.csdn.net/ego_bai/article/details/80293632'  
 url22 = 'https://blog.csdn.net/ego_bai/article/details/79866651' 
-
 url23 = 'https://blog.csdn.net/ego_bai/article/details/80615365' 
 url24 = 'https://blog.csdn.net/ego_bai/article/details/80560894' 
 url25 = 'https://blog.csdn.net/ego_bai/article/details/80560872' 
@@ -73,6 +72,7 @@ url63 = 'https://blog.csdn.net/ego_bai/article/details/53930049'
 url63 = 'https://blog.csdn.net/ego_bai/article/details/53929833'
 url64 = 'https://blog.csdn.net/ego_bai/article/details/53929664'
 url65 = 'https://blog.csdn.net/ego_bai/article/details/80615365'
+url66 = 'https://blog.csdn.net/Ego_Bai/article/details/81361916'
 
 
 user_agent = 'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)'    # 伪装成Chrome浏览器
@@ -102,50 +102,50 @@ request19 = urllib.request.Request(url19,  data=urllib.parse.urlencode(data).enc
 request20 = urllib.request.Request(url20,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
 request21 = urllib.request.Request(url21,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
 request22 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request23 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request24 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request25 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request26 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request27 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request28 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request29 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request30 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request31 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request32 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request33 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request34 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request35 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request36 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request37 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request38 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request39 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request40 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request41 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request42 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request43 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request44 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request45 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request46 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request47 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request48 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request49 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request50 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request51 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request52 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request53 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request54 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request55 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request56 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request57 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request58 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request59 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request60 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request61 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request62 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request63 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request64 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-request65 = urllib.request.Request(url22,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
-
+request23 = urllib.request.Request(url23,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request24 = urllib.request.Request(url24,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request25 = urllib.request.Request(url25,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request26 = urllib.request.Request(url26,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request27 = urllib.request.Request(url27,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request28 = urllib.request.Request(url28,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request29 = urllib.request.Request(url29,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request30 = urllib.request.Request(url30,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request31 = urllib.request.Request(url31,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request32 = urllib.request.Request(url32,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request33 = urllib.request.Request(url33,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request34 = urllib.request.Request(url34,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request35 = urllib.request.Request(url35,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request36 = urllib.request.Request(url36,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request37 = urllib.request.Request(url37,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request38 = urllib.request.Request(url38,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request39 = urllib.request.Request(url39,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request40 = urllib.request.Request(url40,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request41 = urllib.request.Request(url41,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request42 = urllib.request.Request(url42,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request43 = urllib.request.Request(url43,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request44 = urllib.request.Request(url44,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request45 = urllib.request.Request(url45,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request46 = urllib.request.Request(url46,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request47 = urllib.request.Request(url47,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request48 = urllib.request.Request(url48,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request49 = urllib.request.Request(url49,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request50 = urllib.request.Request(url50,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request51 = urllib.request.Request(url51,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request52 = urllib.request.Request(url52,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request53 = urllib.request.Request(url53,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request54 = urllib.request.Request(url54,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request55 = urllib.request.Request(url55,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request56 = urllib.request.Request(url56,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request57 = urllib.request.Request(url57,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request58 = urllib.request.Request(url58,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request59 = urllib.request.Request(url59,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request60 = urllib.request.Request(url60,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request61 = urllib.request.Request(url61,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request62 = urllib.request.Request(url62,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request63 = urllib.request.Request(url63,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request64 = urllib.request.Request(url64,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request65 = urllib.request.Request(url65,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
+request66 = urllib.request.Request(url66,  data=urllib.parse.urlencode(data).encode(encoding='UTF8'), headers=headers)  
 while 1:    # 一旦开刷就停不下来
     rec = urllib.request.urlopen(request)  # 发送GET请求，获取博客文章页面资源
     rec2 = urllib.request.urlopen(request2)
@@ -212,6 +212,7 @@ while 1:    # 一旦开刷就停不下来
     rec63 = urllib.request.urlopen(request63)
     rec64 = urllib.request.urlopen(request64)
     rec65 = urllib.request.urlopen(request65)
+    rec66 = urllib.request.urlopen(request66)
 
     count += 1    # 计数器加
     print(count)    # 打印当前循环次数
